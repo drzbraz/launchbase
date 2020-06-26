@@ -1,10 +1,10 @@
-//data exports
 module.exports = [
   {
     id: 'LtdCt4QbQzk',
     title: 'Trabalho AED - Algoritmos de Ordenação',
     duration: '13m57s',
     button: 'Play',
+    featured: true,
   },
   {
     id: 'uhHoicg5xoM',
